@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello Stranger 👋
 
 # 💫 About Me:
     Seasoned professional with 4+ years of experience in AWS and Python development
@@ -16,7 +16,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhiren2699'&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiren2699'&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhiren2699'&icon=2&color=0)](https://visitcount.itsvg.in)
