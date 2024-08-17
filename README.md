@@ -1,7 +1,7 @@
 # Hello Stranger 👋
 
 # 💫 About Me:
-    * Seasoned professional with 4+ years of experience in AWS and Python development
+    * Seasoned professional with 5+ years of experience in AWS and Python development
     * Specialization in AWS Serverless architecture, proficient in designing and implementing scalable solutions
     * Extensive involvement in IoT product development and Alexa skill creation, harnessing AWS capabilities for innovative projects
     * Hands-on experience in cutting-edge technologies including Deep Learning, OCR, Image Processing, and Large Language Models (LLM)
