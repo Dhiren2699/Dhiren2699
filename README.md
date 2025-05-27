@@ -18,6 +18,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiren2699&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 
+<div id="streak" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dhiren2699&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=cjfritz9&theme=default"/>
+  </picture>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhiren2699'&icon=2&color=0)](https://visitcount.itsvg.in)
